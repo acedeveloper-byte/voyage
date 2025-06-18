@@ -392,6 +392,13 @@ a {
     height: auto;
     padding: 4px;
   }
+
+  #best-offer-service-section {
+    font-size: 3vw;
+    font-weight: 100;
+    padding: 0!important;
+      margin-top : 20%
+}
   
 
   .icon {
@@ -429,12 +436,18 @@ a {
 
   #tours {
     width: 100%;
-    padding: 50px
+    padding:0 !important;
   }
 
+  .tours-img {
+    height: 300px;
+    border-radius: 1.2rem !important;
+    object-fit: cover;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+}
   .organized-adventure h1 {
-    font-size: 3rem
-;
+    font-size: 3rem;
     font-weight: 10;
     margin-bottom: 1rem;
     line-height: 1.2;
