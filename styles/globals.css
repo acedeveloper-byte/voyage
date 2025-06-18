@@ -457,6 +457,16 @@ a {
 
   margin : 0 !important 
  }
+
+
+
+ #home-banner {
+   background-attachment: fixed !important;
+    background-size: cover;
+    background-position: center;
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+  }
 }
 
 /* Small devices */

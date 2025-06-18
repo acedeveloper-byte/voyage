@@ -4,6 +4,7 @@ import Head from "next/head";
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 import { BsArrowRight } from "react-icons/bs";
 import FaqAccordion from "@/component/common/FAQ";
+import { useEffect } from "react";
 
 
 
@@ -66,7 +67,17 @@ const TOURS = [
 
 
 export default function Home() {
+useEffect(() => {
+  const banner = document.getElementById("home-banner");
 
+  const onScroll = () => {
+    const offset = window.scrollY;
+    banner.style.backgroundPositionY = offset * 0.5 + "px";
+  };
+
+  window.addEventListener("scroll", onScroll);
+  return () => window.removeEventListener("scroll", onScroll);
+}, []);
 
   return (
     <>
