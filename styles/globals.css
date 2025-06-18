@@ -452,6 +452,11 @@ a {
     margin-bottom: 1rem;
     line-height: 1.2;
 }
+
+.footer-content {
+
+  margin : 0 !important 
+ }
 }
 
 /* Small devices */

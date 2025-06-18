@@ -17,7 +17,7 @@ const Footer = () => {
                                 My Voyage Verse  - the best Tours
                             </div>
                         </Col>
-                        <Col className="m-5">
+                        <Col sm={12} md={1} className="footer-content m-5">
                             <div>
                                  <ul type="none">
                                     <h6 className='bg-text-light' style={{    color: "#9a9a9a;"}}>Menu</h6>
@@ -28,7 +28,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </Col>
-                        <Col className="m-5">
+                        <Col sm={12} md={1} className="footer-content m-5">
                             <div>
                                  <ul type="none">
                                     <h6 className='bg-text-light' style={{    color: "#9a9a9a;"}}>Information</h6>
@@ -37,7 +37,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </Col>
-                        <Col className="m-5">
+                        <Col sm={12} md={2} className="footer-content m-5">
                             <div>
                                  <ul type="none">
                                     <h6 className='bg-text-light' style={{    color: "#9a9a9a;"}}>Contact</h6>
