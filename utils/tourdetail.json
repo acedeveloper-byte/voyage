@@ -1,0 +1,316 @@
+[
+    {
+        "title": "Grand European Adventure",
+        "image": "/images/tours/1-2000x1333.jpg",
+        "link": "/european-adventure",
+        "price": "$ 2499.00",
+        "content" :"With our Grand European Adventure tour, set out on an unforgettable adventure through Europe's historic cities and captivating landscapes. You will spend 14 days taking in the stunning scenery, intriguing history, and vibrant culture of some of Europe's most famous locations. ",
+        "content_two" :"This tour provides a thorough examination of the varied legacy of the continent, from the enchanting canals of Venice to the magnificent castles of Germany. Every moment is guaranteed to be remembered, whether you're taking in the stunning art of Florence, wandering through the streets of Paris, or on a picturesque Danube River cruise. Come along on this journey of a lifetime and experience the magic of Europe.",
+        "information": [
+            {
+                "place": "Paris, France (3 days)",
+                "description": "Discover famous sites like Notre-Dame Cathedral, the Louvre Museum, and the Eiffel Tower."
+            },
+            {
+                "place": "Venice, Italy (2 days)",
+                "description": "Take a gondola ride, explore St. Mark's Square, and cruise the charming canals."
+            },
+            {
+                "place": "Florence, Italy (2 days)",
+                "description": "Explore the historic core, take in Michelangelo's David, and admire Renaissance masterpieces at the Uffizi Gallery."
+            },
+            {
+                "place": "Rome, Italy (3 days)",
+                "description": "Explore historic sites like the Roman Forum and Colosseum, go to Vatican City, and toss a penny in the Trevi Fountain."
+            },
+            {
+                "place": "Vienna, Austria (2 days)",
+                "description": "Explore the historic core, take in the imperial splendor of Schönbrunn Palace, and go to a classical symphony."
+            },
+            {
+                "place": "Munich, Germany (2 days)",
+                "description": "Discover Bavarian sites such as Marienplatz and Neuschwanstein Castle, and indulge in regional cuisine and beer."
+            }
+        ],
+         "details": {
+    "Location": "Europe",
+    "Duration": "14 days",
+    "Accommodation": "Comfortable hotels in city centers",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "Breakfast included; optional lunch and dinner packages available"
+  }
+    },
+    {
+        "title": "Amazon Rainforest Expedition",
+        "image": "/images/tours/2-2305x1538.jpg",
+        "link": "/amazonia",
+        "price": "$ 2999.00",
+        "content": "Set out on a once-in-a-lifetime journey across the Amazon Rainforest. You will spend ten days immersed in this pristine ecosystem's unmatched biodiversity, where you will come across rare creatures, colorful plants, and indigenous cultures.",
+        "content_two" :"Every day provides fresh and interesting adventures, ranging from peaceful river cruises and nighttime wildlife watching to exhilarating jungle excursions and canopy walks. You will visit indigenous settlements, discover distant tributaries, and learn more about this remarkable natural wonder with knowledgeable experts guiding you.",
+             "details": {
+    "Location": "Amazon Rainforest, Brazil",
+    "Duration": "10 days",
+    "Accommodation": "Comfortable hotels in city centers",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring local Amazonian cuisine"
+  },
+        "information": [
+            {
+                "place": "Manaus (3 days)",
+                "description": "Take a boat ride down the Rio Negro, see the vibrant city of Manaus, and see the famous Amazon Theatre."
+            },
+            {
+                "place": "Anavilhanas Archipelago (3 days)",
+                "description": "Explore the Anavilhanas Archipelago's maze of islands and waterways, look for pink river dolphins, and go piranha fishing."
+            },
+            {
+                "place": "Rio Juma (2 days)",
+                "description": "Visit a local indigenous settlement, go on jungle treks, and venture deep into the Amazon along the Rio Juma."
+            },
+            {
+                "place": "Meeting of the Waters (1 day)",
+                "description": "Observe the rare occurrence where the sandy-colored waters of the Solimões River meet the black waters of the Rio Negro."
+            }
+        ]
+    },
+    {
+        "title": "Northern Lights Expedition",
+        "image": "/images/tours/aurora-borealis-sky-181624-35404-826x1239.jpg",
+        "link": "/northern-lights",
+        "price": "$ 4999.00",
+        "content": "On our trip to the Arctic Circle, take in the breathtaking grandeur of the Northern Lights. Travel to isolated areas of Finland and Norway over the course of seven days for the best chance of seeing the breathtaking aurora borealis. Experience thrilling husky sledding excursions, snowmobile rides, and warm evenings in traditional Sami lavvu tents while traveling. You'll experience the enchantment of the Arctic winter and make lifelong memories with knowledgeable experts guiding you.",
+        "information": [
+            {
+                "place": "Tromsø, Norway (3 days)",
+                "description": "Take a Northern Lights safari, see the Arctic Cathedral, and explore the energetic city of Tromsø."
+            },
+            {
+                "place": "Finnish Lapland (3 days)",
+                "description": "Take a traditional Finnish sauna, go snowshoeing in the forests, and explore the Finnish environment."
+            },
+            {
+                "place": "Alta, Norway (1 day)",
+                "description": "See prehistoric life scenes depicted in ancient rock sculptures at the Alta Museum."
+            }
+        ],
+         "details": {
+    "Location": "Norway and Finland",
+    "Duration": "7 days",
+    "Accommodation": "Cozy cabins and traditional Sami tents",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring local Arctic cuisine"
+  }
+    },
+    {
+        "title": "Golden Triangle Discovery",
+        "image": "/images/tours/4-1800x1192.jpg",
+        "link": "/india",
+        "details": {
+    "Location": "India (Delhi, Agra, Jaipur)",
+    "Duration": "10 days",
+    "Accommodation": "Boutique hotels and heritage properties",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "Breakfast included; optional lunch and dinner packages available"
+  },
+        "price": "$ 3999.00",
+        "content": "Take advantage of our thorough 10-day journey to explore the cultural gems of India's Golden Triangle. Explore the famous sites, lively marketplaces, and imposing palaces that characterize this fascinating area as you travel through Delhi, Agra, and Jaipur.",
+        "content_two" : "From the Taj Mahal's breathtaking splendor to Old Delhi's busy streets, every location provides a window into India's rich past and varied culture. This tour is ideal for those looking for a genuine Indian experience because it offers knowledgeable guides and cozy lodging.",
+         "information": [
+            {
+                "place": "Delhi (3 days)",
+                "description": "Discover historical locations like Humayun's Tomb, the Red Fort, and Jama Masjid."
+            },
+            {
+                "place": "Agra (2 days)",
+                "description": "Explore Agra Fort, have a taste of the native cuisine at busy markets, and see the famous Taj Mahal at dawn."
+            },
+            {
+                "place": "Jaipur (3 days)",
+                "description": "Explore the magnificent City Palace, Hawa Mahal, and Amber Fort. You may also purchase traditional handicrafts at the bazaars."
+            }
+        ]
+    },
+    {
+        "title": "Mystical Machu Picchu Expedition",
+        "image": "/images/tours/5-1800x1202.jpg",
+        "link": "/peru",
+        "price": "$ 4499.00",
+        "content": "Set out on a magical adventure to the fabled Machu Picchu, which is tucked away in Peru's Andes Mountains. You will hike through traditional Andean towns, Inca sites, and stunning vistas over ten days",
+        "content_two" :"Experience the rich culture and history of the Incas, walk the well-known Inca Trail, and take in the sunrise above Machu Picchu. This journey offers excitement, enlightenment, and lifelong experiences, with knowledgeable guides leading the way.", 
+        "information": [
+            {
+                "place": "Cusco (3 days)",
+                "description": "Visit ancient Inca ruins, explore Cusco's historic district, and get used to the altitude."
+            },
+            {
+                "place": "Inca Trail Trek (4 days)",
+                "description": "Trek the well-known Inca Trail, which winds over mountain passes, cloud forests, and Inca sites."
+            },
+            {
+                "place": "Machu Picchu (2 days)",
+                "description": "Discover the Inca history at the on-site museum, trek to the Sun Gate for expansive vistas, and explore the Lost City of the Incas."
+            }
+        ],
+         "details": {
+    "Location": "Peru (Machu Picchu)",
+    "Duration": "10 days",
+    "Accommodation": "Mountain lodges and camping along the Inca Trail",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring traditional Peruvian cuisine"
+  }
+    },
+    {
+        "title": "Safari Adventure in the Serengeti",
+        "image": "/images/tours/6-2305x1296.jpg",
+        "link": "/tanzania",
+        "price": "$ 4299.00",
+        "content": "In the vast Serengeti wildness, have the safari experience of a lifetime. Explore Tanzania's most famous national parks during a 12-day period to take in the African savannah's stunning splendor and get up close and personal with magnificent animals.",
+            "content_two" : "This trip provides an immersive experience in one of the most famous safari areas in the world, with activities ranging from exhilarating game drives and hot air balloon safaris to cultural encounters with Maasai communities",
+         "information": [
+            {
+                "place": "Arusha (2 days)",
+                "description": "Explore the bustling city of Arusha, visit local markets, and prepare for your safari adventure."
+            },
+            {
+                "place": "Tarangire National Park (3 days)",
+                "description": "Enjoy sunsets over the Tarangire River and go on game drives to see lions, elephants, and other animals."
+            },
+            {
+                "place": "Ngorongoro Crater (3 days)",
+                "description": "See the Big Five, descend into the largest preserved volcano crater in the world, and tour a Maasai hamlet."
+            }
+        ],
+          "details": {
+    "Location": "Tanzania (Serengeti National Park)",
+    "Duration": "12 days",
+    "Accommodation": "Luxury tented camps and safari lodges",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring traditional African cuisine"
+  }
+    },
+    {
+        "title": "Cultural Splendors of Japan",
+        "image": "/images/tours/7-1800x1198.jpg",
+        "link": "/japan",
+        "price": "$ 4299.00",
+        "content": "During this 14-day tour of Japan's most famous cities and historical landmarks, immerse yourself in the country's rich cultural legacy.",
+        "content_two" : "Explore the customs, artwork, and culinary traditions that have influenced this intriguing island nation, from the busy streets of Tokyo to the tranquil shrines of Kyoto. During this remarkable tour of Japan's cultural treasures, take in the excitement of a traditional tea ceremony, be in awe of the beauty of cherry blossoms in bloom, and savor delectable Japanese food.",
+         "information": [
+            {
+                "place": "Tokyo (4 days)",
+                "description": "Discover Tokyo's futuristic side at Akihabara, explore ancient temples and gardens, and stroll through the bustling areas of Shibuya, Shinjuku, and Asakusa."
+            },
+            {
+                "place": "Kyoto (5 days)",
+                "description": "Explore Kyoto, the cultural center of Japan, and take part in a traditional tea ceremony while seeing famous locations like Kinkakuji Temple, Fushimi Inari Shrine, and Arashiyama Bamboo Grove."
+            },
+            {
+                "place": "Osaka (3 days)",
+                "description": "Discover the gastronomic delights of Osaka's street food culture, tour Osaka Castle and the bustling Dotonbori neighborhood, and spend the day visiting the adjacent deer park in Nara."
+            }
+        ],
+          "details": {
+    "Location": "Japan (Tokyo, Kyoto, Osaka)",
+    "Duration": "14 days",
+    "Accommodation": "Comfortable hotels in city centers",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "Breakfast included; lunch and dinner options available for additional cost"
+  }
+    },
+    {
+        "title": "Enchanting Galápagos Expedition",
+        "image": "/images/tours/7-1.webp",
+        "link": "/ecuador",
+        "price": "$ 3299.00",
+        "content": "Set out on a captivating journey to the Galápagos Islands, a living example of evolution and breathtaking scenery.",
+        "content_two":"On a luxury yacht, you will spend ten days exploring this unique archipelago, stopping at gorgeous beaches, volcanic landscapes, and various ecosystems alive with fauna that is unique to this planet. Hike to stunning vantage points for expansive views of this biological wonderland, see giant tortoises in their natural habitat, and snorkel with sea lions." ,
+        "information": [
+            {
+                "place": "Santa Cruz Island (3 days)",
+                "description": "See giant tortoises in the wild, hike to Tortuga Bay, and visit the Charles Darwin Research Station."
+            },
+            {
+                "place": "Isabela Island (4 days)",
+                "description": "Hike to the rim of the Sierra Negra volcano, snorkel with marine iguanas and penguins, and explore Isabela's immaculate beaches."
+            },
+            {
+                "place": "Fernandina Island (2 days)",
+                "description": "Discover the youngest island in the archipelago and come across unusual fauna including Galápagos hawks and flightless cormorants."
+            }
+        ] ,
+        "details": {
+    "Location": "Galápagos Islands, Ecuador",
+    "Duration": "10 days",
+    "Accommodation": "Luxury yacht cabins",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring fresh seafood and local specialties"
+  }
+
+    },
+    {
+        "title": "African Safari Adventure: Kruger to Victoria Falls",
+        "image": "/images/tours/9-6452x4301.jpg",
+        "link": "/africa",
+        "price": "$ 3999.00",
+        "content": "Set out on the ultimate African safari trip, traveling from South Africa's famous Kruger National Park to Zimbabwe's breathtaking Victoria Falls. You will see the Big Five in their native habitat, enjoy the excitement of game drives through the African bush, and take in the untamed power of Victoria Falls in its full force over the course of 15 days. This adventure offers an immersive and remarkable tour through the heart of Africa, complete with opulent lodgings, knowledgeable guides, and life-changing encounters.",
+        "information": [
+            {
+                "place": "Kruger National Park, South Africa (5 days)",
+                "description": "Savor game drives in the morning and evening to spot lions, elephants, and rhinos, and unwind in opulent lodges with views of the African savannah."
+            },
+            {
+                "place": "Blyde River Canyon, South Africa (2 days)",
+                "description": "Take a boat ride on the Blyde Dam and discover the natural treasures of the Blyde River Canyon, such as God's Window and Bourke's Luck Potholes."
+            },
+            {
+                "place": "Victoria Falls, Zimbabwe (5 days)",
+                "description": "Experience the splendor of the Victoria Falls from several vantage points, go on a sunset cruise on the Zambezi River, and partake in exhilarating pursuits like bungee jumping and helicopter rides."
+            }
+        ],
+          "details": {
+    "Location": "South Africa (Kruger National Park) and Zimbabwe (Victoria Falls)",
+    "Duration": "15 days",
+    "Accommodation": "Luxury safari lodges and boutique hotels",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring African-inspired cuisine"
+  }
+    },
+    {
+        "title": "Ancient Wonders of Egypt",
+        "image": "/images/tours/10-1800x1200.jpg",
+        "link": "/egypt",
+        "price": "$ 2999.00",
+        "content": "This 12-day tour of ancient Egypt's most famous landmarks and archeological sites will help you unravel its mysteries. Explore Egypt's intriguing past and be in awe of its timeless structures, from the mysterious pyramids of Giza to the temples of Luxor and the Valley of the Kings. Experience the timeless majesty of Egypt's ancient wonders while cruising the Nile River in a traditional felucca and exploring busy bazaars.",
+        "information": [
+            {
+                "place": "Cairo (3 days)",
+                "description": "Visit the Pyramids of Giza, the Sphinx, and the Egyptian Museum, and explore the historic streets of Old Cairo."
+            },
+            {
+                "place": "Nile River Cruise (4 days)",
+                "description": "Explore historic temples like Karnak and Edfu while sailing down the Nile River in a traditional felucca. Take advantage of the entertainment and food available on board."
+            },
+            {
+                "place": "Aswan (2 days)",
+                "description": "Visit the Aswan High Dam, explore the Philae Temple, and cruise Elephantine Island on a felucca."
+            }
+        ],
+        "details": {
+    "Location": "Egypt (Cairo, Luxor, Aswan)",
+    "Duration": "12 days",
+    "Accommodation": "Nile cruise ship and luxury hotels",
+    "Insurance": "Yes",
+    "Transportation": "All transportation included",
+    "Meals": "All meals included, featuring Egyptian cuisine and international dishes"
+  }
+    }
+]

@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap');
 /* :root {
+  @import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap');
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -233,7 +233,8 @@ a {
 .item-img {
   position: relative;
   overflow: hidden;
-  margin-top: 20px
+  margin-top: 20px;
+  cursor : pointer
 }
 
 
@@ -373,6 +374,7 @@ a {
 
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
+
   #home-banner .container-fluid {
     align-items: center;
     text-align: center;
@@ -458,6 +460,16 @@ a {
   margin : 0 !important 
  }
 
+ .details-para h1 {
+  font-size: 2rem !important;
+ }
+ .details-para h3 {
+  font-size: 1.5rem !important;
+ }
+ .details-para p {
+  font-size: 16px !important;
+ }
+
 
 
  #home-banner {
@@ -492,3 +504,41 @@ a {
     font-size: 5vw;
   }
 }
+
+ .details-para h1 { 
+    
+      font-size: 5rem;
+ }
+ .details-para h3 { 
+    
+      font-size: 2rem;
+ }
+
+ .details-para p { 
+    
+      font-size: 1.5rem;
+ }
+
+ .itenary {
+  margin : 10px;
+  border-top: 1px solid #dddddd;
+ }
+
+
+ #info-para {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #232323;
+    color : white
+}
+
+.information-para h2 {
+      font-size: 3rem;
+}
+
+ .information-para .information-para-list h3{
+      font-size: 1.8rem;
+
+ }
+
+

@@ -1,3 +1,5 @@
+import React from 'react'
+
 import Footer from "@/component/common/Footer";
 import Header from "@/component/common/Header";
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
@@ -6,9 +8,8 @@ import FaqAccordion from "@/component/common/FAQ";
 import { useEffect } from "react";
 import SEO from "@/component/common/SEO";
 
-
-
-const TOURS = [
+const about = () => {
+    const TOURS = [
   {
     "title": "Grand European Adventure",
     "image": "/images/tours/1-2000x1333.jpg",
@@ -66,54 +67,35 @@ const TOURS = [
 
 
 
-export default function Home() {
-useEffect(() => {
-  const banner = document.getElementById("home-banner");
 
-  const onScroll = () => {
-    const offset = window.scrollY;
-    banner.style.backgroundPositionY = offset * 0.5 + "px";
-  };
 
-  window.addEventListener("scroll", onScroll);
-  return () => window.removeEventListener("scroll", onScroll);
-}, []);
 
-  return (
+    return (
     <>
      <SEO title="The Voyage Tours | United Tour selection" description={"Multtple tours selection at your galance"}/>
       <Header />
-      <section id="home-banner">
-        <Container fluid>
-
-          <div>
-            <h1>
-              The Voyage Tours
-            </h1>
-            <h2>
-             Get amazing deals and find your perfect cruise with us.
-
-
-            </h2>
-            <div className="banner-custom-btn">
-              <h6 className="text-center mt-1">View all</h6>
-              <span className="icon">
-                <BsArrowRight />
-              </span>
-            </div>
-          </div>
-
-
-          <div className="bannerendcontent">
-            <h4 className="text-white">
-          Your next cruise trip is just a click away
-            </h4>
-            <h4 className="text-white">
-Explore the seas with us, and enjoy!
-            </h4>
-          </div>
+      <section>
+        <Container fluid className="px-5 p-5">
+          <Row>
+            <Col md={9}>
+              <div>
+                <h1>
+            About us
+                </h1>
+                <p>A group of experts at My Voyage Verse are fervently committed to crafting adventures that will never be forgotten. We provide a variety of excursions across the world in an effort to make every one of your vacations special and unforgettable.
+                </p>Our professionals create itineraries, pick destinations with care, and guarantee an unmatched level of service while you're traveling. Since each traveler is different, we provide a range of tour options, from exciting experiences to romantic retreats.
+                <p>
+                </p>
+              </div>
+              
+            </Col>
+            <Col md={3}>
+            <img src="/images/tours/travel-items-assortment-top-view-23-2149617655-1160x773.jpg"  className="contact-us-image"/>
+            </Col>
+          </Row>
         </Container>
       </section>
+  
 
       <section id="best-offer-service-section">
 
@@ -154,37 +136,7 @@ Explore the seas with us, and enjoy!
       </section>
 
 
-      <section id="tours">
 
-        <Container fluid>
-          <Row>
-            {TOURS.map((item, index) => {
-
-              return (
-
-                <Col xs={12} md={6}
-                >
-                  <a className="text-decoration-none" href={item.link}>
-
-                  <div
-                    className="item-img"
-                  >
-
-                    <img src={item.image} className="tours-img" />
-                    <span className="icon icon-position">
-                      <BsArrowRight />
-                    </span>
-                  </div>
-                  <h2 className="m-4">{item.title}</h2>
-
-                  </a>
-
-                </Col>
-              )
-            })}
-          </Row>
-        </Container>
-      </section>
 
 
       <section class="organized-adventure">
@@ -204,6 +156,7 @@ Explore the seas with us, and enjoy!
       <section>
         <FaqAccordion />
       </section>
+     
       <section>
 
         <Container fluid className="newsletter-section py-5">
@@ -279,9 +232,7 @@ Explore the seas with us, and enjoy!
                 <h5>
                  Number phone:
                 </h5>
-               <p>USA : +1(844) 762-1214 </p>
-                <p>Chile : +56 800231058 </p>
-                <p>Mexico : +52 8007334112 </p>
+                <p>+1-888-298-1073</p>
               </div>
                 <div>
                 <h5>
@@ -305,5 +256,7 @@ Explore the seas with us, and enjoy!
       </section>
       <Footer />
     </>
-  );
+  )
 }
+
+export default about

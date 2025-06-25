@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { Accordion } from 'react-bootstrap';
 
 const faqData = [
-  { number: '01', question: 'What types of tours do you offer?' },
-  { number: '02', question: 'What are your destinations?' },
-  { number: '03', question: 'How does tour booking work?' },
-  { number: '04', question: 'What safety measures do you have in place?' },
+  { number: '01', question: 'Can I have a personalized cruise trip?' , answer :"Yes, we offer tailored cruise trips that suit your preferences and budget. Our experts will help you plan your dream trip." },
+  { number: '02', question: 'What types of cruise tours do you offer?',answer :"We offer different cruise tours, such as themed tours, group excursions, family-friendly voyages, and luxury cruise trips." },
+  { number: '03', question: 'Are there any hidden charges?' , answer:"No, there are no hidden fees. The price you see will be the final price you pay. All taxes, port fees, and other charges are included in the price."},
+  { number: '04', question: 'How do I book my cruise?',answer :"The best time to book your cruise depends on the destination. However, you should confirm your booking in advance for great deals." },
 ];
 
 const FaqAccordion = () => {
@@ -27,7 +27,7 @@ const FaqAccordion = () => {
               <span className="faq-icon">+</span>
             </Accordion.Header>
             <Accordion.Body>
-              This is a placeholder answer for: <strong>{item.question}</strong>
+           <strong>{item.answer}</strong>
             </Accordion.Body>
           </Accordion.Item>
         ))}
