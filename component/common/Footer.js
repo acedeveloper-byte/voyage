@@ -46,7 +46,7 @@ const Footer = () => {
                                     <h6 className='bg-text-light' style={{    color: "#9a9a9a;"}}>Contact</h6>
                                     <li>Address : <br />
                                     {" "}3612 Windshire Dr Springfield, IL 62704, USA</li>
-                                    <li>E-mail: <br /> myvoyageverse@gmail.com
+                                    <li>E-mail: <br /> info@thevoyagetours.com
                                     </li>
                                     <li>Phone number: <br /> +1-888-298-1073</li>
                                     <p>USA : +1(844) 762-1214 </p>

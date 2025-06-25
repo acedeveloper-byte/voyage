@@ -287,7 +287,7 @@ Explore the seas with us, and enjoy!
                 <h5>
                 E-mail
                 </h5>
-                <p>myvoyageverse@gmail.com</p>
+                <p>info@thevoyagetours.com</p>
               </div>
 
                 <div>
