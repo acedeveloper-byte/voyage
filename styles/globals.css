@@ -625,6 +625,9 @@ a {
 
 }
 
+.modal-body {
+  padding-top :  50px
+}
 .modal-number-container {
 
   display: flex;

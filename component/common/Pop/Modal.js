@@ -62,7 +62,9 @@ const ExpediaModal = ({ show, onClose }) => {
                     >
                         <div className="content-center">
 
-                          
+                            <div className="modal-header justify-content-end">
+                             
+                            </div>
                             <div className="modal-body">
                                 <div className="expedia-logo justify-content-center">
                                     <img src="/images/expedia-logo.png" />
