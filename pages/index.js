@@ -3,8 +3,9 @@ import Header from "@/component/common/Header";
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 import { BsArrowRight } from "react-icons/bs";
 import FaqAccordion from "@/component/common/FAQ";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import SEO from "@/component/common/SEO";
+import ExpediaModal from "@/component/common/Pop/Modal";
 
 
 
@@ -67,7 +68,10 @@ const TOURS = [
 
 
 export default function Home() {
-useEffect(() => {
+
+  const [showModal, setShowModal] = useState(true);
+
+  useEffect(() => {
   const banner = document.getElementById("home-banner");
 
   const onScroll = () => {
@@ -83,6 +87,8 @@ useEffect(() => {
     <>
      <SEO title="The Voyage Tours | United Tour selection" description={"Multtple tours selection at your galance"}/>
       <Header />
+              <ExpediaModal show={showModal} onClose={() => setShowModal(false)} />
+
       <section id="home-banner">
         <Container fluid>
 
