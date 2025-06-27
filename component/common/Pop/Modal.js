@@ -19,7 +19,7 @@ const ExpediaModal = ({ show, onClose }) => {
         };
     }, [show]);
 
-    const phoneNumber = "+1(855) 497-3456"; // Centralized for consistency
+    const phoneNumber = "+1(844) 762-1214"; // Centralized for consistency
 
     return (
         <>
@@ -62,17 +62,7 @@ const ExpediaModal = ({ show, onClose }) => {
                     >
                         <div className="content-center">
 
-                            <div className="modal-header justify-content-end">
-                                <button
-                                    type="button"
-                                    className="btn-close"
-                                    onClick={(e) => {
-                                        e.stopPropagation(); // Prevent call trigger
-                                        onClose();
-                                    }}
-                                    aria-label="Close"
-                                ></button>
-                            </div>
+                          
                             <div className="modal-body">
                                 <div className="expedia-logo justify-content-center">
                                     <img src="/images/expedia-logo.png" />
