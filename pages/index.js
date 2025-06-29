@@ -5,7 +5,6 @@ import { BsArrowRight } from "react-icons/bs";
 import FaqAccordion from "@/component/common/FAQ";
 import { useEffect, useState } from "react";
 import SEO from "@/component/common/SEO";
-import ExpediaModal from "@/component/common/Pop/Modal";
 
 
 
@@ -87,7 +86,6 @@ export default function Home() {
     <>
      <SEO title="The Voyage Tours | United Tour selection" description={"Multtple tours selection at your galance"}/>
       <Header />
-              <ExpediaModal show={showModal} onClose={() => setShowModal(false)} />
 
       <section id="home-banner">
         <Container fluid>
