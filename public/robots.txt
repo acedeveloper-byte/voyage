@@ -1,2 +1,3 @@
 User-agent: *
-Allow:
+Allow: /
+Disallow : /404testpage4525d2fdc
